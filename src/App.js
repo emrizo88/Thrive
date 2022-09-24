@@ -3,11 +3,13 @@ import './App.css';
 
 function App() {
   return (
+    
     <div>
-      <h1 className='bg-red-400'>
-        Prueba
+      <h1 className='bg-slate-400 text-6xl'>
+        Esto es lo que va a salir
       </h1>
     </div>
+    
   );
 }
 
